@@ -1,3 +1,3 @@
 # TestJava
 
-this is a test envirment
+this is a test enviroment
